@@ -31,7 +31,7 @@ a .button {
 
 ### Why?
 
-1. In my opinion, the way CSS preprocessors handle nesting of child selectors is awesome -- the rest can be easily implemented in any programming language e.g. variables and includes (mixins).
+1. In my opinion, the way `CSS` preprocessors handle nesting of child selectors is awesome -- the rest can be easily implemented in any programming language e.g. variables and includes (mixins).
 2. It's much faster than a full implementation of Sass/Less.
 
 ### How?
